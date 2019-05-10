@@ -12,6 +12,10 @@
 		ACED85752285DA1B00841C9C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACED85732285DA1B00841C9C /* Main.storyboard */; };
 		ACED85772285DA1E00841C9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACED85762285DA1E00841C9C /* Assets.xcassets */; };
 		ACED857A2285DA1E00841C9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACED85782285DA1E00841C9C /* LaunchScreen.storyboard */; };
+		ACED85822285E23200841C9C /* LogarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACED85812285E23200841C9C /* LogarViewController.swift */; };
+		ACED85842285E31A00841C9C /* ExibirViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACED85832285E31A00841C9C /* ExibirViewController.swift */; };
+		ACED85862285E35800841C9C /* LojaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACED85852285E35800841C9C /* LojaViewController.swift */; };
+		ACED85882285E39600841C9C /* NomeExibidoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACED85872285E39600841C9C /* NomeExibidoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		ACED85762285DA1E00841C9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACED85792285DA1E00841C9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACED857B2285DA1E00841C9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACED85812285E23200841C9C /* LogarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogarViewController.swift; sourceTree = "<group>"; };
+		ACED85832285E31A00841C9C /* ExibirViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExibirViewController.swift; sourceTree = "<group>"; };
+		ACED85852285E35800841C9C /* LojaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LojaViewController.swift; sourceTree = "<group>"; };
+		ACED85872285E39600841C9C /* NomeExibidoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NomeExibidoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +65,10 @@
 				ACED856F2285DA1B00841C9C /* AppDelegate.swift */,
 				ACED85712285DA1B00841C9C /* ViewController.swift */,
 				ACED85732285DA1B00841C9C /* Main.storyboard */,
+				ACED85812285E23200841C9C /* LogarViewController.swift */,
+				ACED85832285E31A00841C9C /* ExibirViewController.swift */,
+				ACED85852285E35800841C9C /* LojaViewController.swift */,
+				ACED85872285E39600841C9C /* NomeExibidoViewController.swift */,
 				ACED85762285DA1E00841C9C /* Assets.xcassets */,
 				ACED85782285DA1E00841C9C /* LaunchScreen.storyboard */,
 				ACED857B2285DA1E00841C9C /* Info.plist */,
@@ -136,7 +148,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACED85722285DA1B00841C9C /* ViewController.swift in Sources */,
+				ACED85822285E23200841C9C /* LogarViewController.swift in Sources */,
 				ACED85702285DA1B00841C9C /* AppDelegate.swift in Sources */,
+				ACED85862285E35800841C9C /* LojaViewController.swift in Sources */,
+				ACED85882285E39600841C9C /* NomeExibidoViewController.swift in Sources */,
+				ACED85842285E31A00841C9C /* ExibirViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
